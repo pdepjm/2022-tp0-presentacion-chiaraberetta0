@@ -1,5 +1,10 @@
 # Presentación
 
 ## Estudiante: Chiara Beretta
+Buenas! Mi nombre es Chiara, tengo 19 años y vivo en el barrio de Caballito 
+Este es mi segundo año en la carrera. Cuando no estoy luchando con la facu me gusta salir con mis amigos, 
+estar con mi familia o dormir la siesta :)
+Soy muy fan de las bananita dolca y mi perra
+
+## Foto
 ![mi foto](foto.jpeg)
-Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vQkogtG88cmwEIXEuff291urSyrZUYHikLIoRTspUodvIg5OoaUJTi8n0vqPJ3XUSN65sqJALTBizeB/pub).
